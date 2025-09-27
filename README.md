@@ -1,2 +1,1 @@
-# batarong-plymouth
-batarong
+This is BatarongOS's plymouth boot theme!

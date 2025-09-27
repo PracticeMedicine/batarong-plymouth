@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=batarong
+Description=A theme I made for Batarong! (c) Rilabug, PracticeMedicine
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/batarong
+ScriptFile=/usr/share/plymouth/themes/batarong/batarong.script
