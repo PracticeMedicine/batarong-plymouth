@@ -1,8 +1,0 @@
-[Plymouth Theme]
-Name=batarong
-Description=Batarong-plymouth
-ModuleName=script
-
-[script]
-ImageDir=/usr/share/plymouth/themes/batarong
-ScriptFile=/usr/share/plymouth/themes/batarong/batarong.script
